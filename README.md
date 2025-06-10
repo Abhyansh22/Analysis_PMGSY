@@ -71,6 +71,14 @@ The project generates several insightful visualizations:
 5. **Pie Chart**: Proportion of total road length by top 10 states
   ![Proportion of total road length](imagesPMGSY/proportionalOfTotalRoadLength.png)
 
+## 📊 Enhanced Power BI Interactive Charts
+
+1. Total Road Length and Total Expenditure (Cr) by STATE_NAME
+    ![TRE & TE](imagesPMGSY/TRL&TEbi.png)
+
+2. Total Expenditure (Cr) by PMGSY_SCHEME
+    ![TEbi](imagesPMGSY/totalexbi.png)
+
 ## 🔍 Analysis Highlights
 
 ### Data Preprocessing
