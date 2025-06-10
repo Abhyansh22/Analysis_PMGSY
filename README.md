@@ -37,6 +37,7 @@ This project analyzes the performance, expenditure patterns, and regional distri
 - **NumPy**: Numerical computations
 - **Matplotlib**: Data visualization
 - **SciPy**: Statistical analysis
+- **Power BI**: Enhanced Visualization
 - **Google Colab**: Development environment
 
 ## 📁 Dataset Description
