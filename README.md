@@ -30,6 +30,8 @@ This project analyzes the performance, expenditure patterns, and regional distri
 - State-wise balance road length remaining
 - Proportion of total road length by state
 
+![Story](imagesPMGSY/data&story.png)
+
 ## 🛠️ Technologies Used
 
 - **Python 3.x**
